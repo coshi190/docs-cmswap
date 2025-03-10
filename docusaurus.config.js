@@ -91,7 +91,7 @@ const config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
+                    href: 'https://github.com/coshi190/docs-openbbq',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -105,11 +105,11 @@ const config = {
                     items: [
                         {
                             label: 'App',
-                            href: 'https://twitter.com/docusaurus',
+                            href: 'https://openbbq.xyz',
                         },
                         {
                             label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            href: 'http://discord.gg/k92ReT5EYy',
                         },
                     ],
                 },
@@ -118,7 +118,7 @@ const config = {
                     items: [
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            href: 'https://github.com/coshi190/docs-openbbq',
                         },
                     ],
                 },
