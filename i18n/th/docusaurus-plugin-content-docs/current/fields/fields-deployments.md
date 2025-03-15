@@ -8,8 +8,8 @@ JB Chain: 8899
 
 | Contract | Address |
 | ------------- | ------------- |
-| [CmdaoFieldsV2Router](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/CmdaoFieldsV2Router.sol) | [0x4b958647b3D5240587843C16d4dfC13B19de2671](https://exp.jibchain.net/address/0x4b958647b3D5240587843C16d4dfC13B19de2671) |
-| [FieldsHook001Factory (Non-committed point)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook001Factory.sol) | [0x12a536085c6f83Edecd31618426a3c670871e579](https://exp.jibchain.net/address/0x12a536085c6f83Edecd31618426a3c670871e579) |
-| [FieldsHook001 (Non-committed point)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook001.sol) | [0xE8757f3e371410B5dbeE83dcAE0876e61B1A2042](https://exp.jibchain.net/address/0xE8757f3e371410B5dbeE83dcAE0876e61B1A2042) |
-| [FieldsHook002Factory (Mining)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook002Factory.sol) | [0xb3a8c0Ba76F715B24c1eEB9e2ae7991726D1dCF9](https://exp.jibchain.net/address/0xb3a8c0Ba76F715B24c1eEB9e2ae7991726D1dCF9) |
-| [FieldsHook002 (Mining)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook002.sol) | [0x8652549D215E3c4e30fe33faa717a566E4f6f00C](https://exp.jibchain.net/address/0x8652549D215E3c4e30fe33faa717a566E4f6f00C) |
+| [OpenBbqFieldsV2Router](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/OpenBbqFieldsV2Router.sol) | [0x83269693E4bff2D8A2982Aa7595ea94ECF74F9B4](https://exp.jibchain.net/address/0x83269693E4bff2D8A2982Aa7595ea94ECF74F9B4) |
+| [FieldsHook001Factory (Non-committed point)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook001Factory.sol) | [0x78F4eEaA5A68Ecd557403062417d4674D455c6Aa](https://exp.jibchain.net/address/0x78F4eEaA5A68Ecd557403062417d4674D455c6Aa) |
+| [FieldsHook001 (Non-committed point)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook001.sol) | [0x705CEc6437AF7eD9AFE20dEe8089720f70948c82](https://exp.jibchain.net/address/0x705CEc6437AF7eD9AFE20dEe8089720f70948c82) |
+| [FieldsHook002Factory (Mining)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook002Factory.sol) | [0x03e5Fa7e592d0Af6C99995eA40F291E872BBE944](https://exp.jibchain.net/address/0x03e5Fa7e592d0Af6C99995eA40F291E872BBE944) |
+| [FieldsHook002 (Mining)](https://github.com/coshi190/contracts-openbbq/blob/master/src/fields/FieldsHook002.sol) | [0x2d182a42A7c2219D920Fa30110504C44BCfE0a21](https://exp.jibchain.net/address/0x2d182a42A7c2219D920Fa30110504C44BCfE0a21) |
