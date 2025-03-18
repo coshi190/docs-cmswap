@@ -82,16 +82,18 @@ $$
 - รางวัลลดลงเมื่อบล็อกสูงขึ้น เพื่อลดอัตราเงินเฟ้อ
 - CMDAO-NFT ช่วยลดค่าความยาก เพื่อให้ผู้ถือ NFT มีโอกาสขุดได้มากขึ้น
 
-### ตาราง Exponential Halving ของ Wood V2
+### ตาราง Hyperbolic Halving ของ Wood V2
 
-คำนวณอัตราการปล่อยโทเค็น Wood V2 ($wood-v2) ตามระบบ Exponential Halving โดยใช้ข้อมูลต่อไปนี้:
-- Exponential Halving ทุก 100,000 บล็อก
+คำนวณอัตราการปล่อยโทเค็น Wood V2 ($wood-v2) ตามระบบ Hyperbolic Halving โดยใช้ข้อมูลต่อไปนี้:
+- Hyperbolic Halving ทุก 100,000 บล็อก
 - Minimum Block Time เป้าหมาย = 3 นาที
-- สูตรคำนวณจำนวนเหรียญที่ปล่อยออกมาทุก Exponential Halving Cycle
+- สูตรคำนวณจำนวนเหรียญที่ปล่อยออกมาทุก Hyperbolic Halving Cycle
 $$
 \sum_{n=0}^{N} \left( \frac{100}{2^(n+1)} \times 100,000 \right)
 $$
-โดย n คือรอบของ Exponential Halving
+โดย n คือรอบของ Hyperbolic Halving
+
+![Graph of y = 100 / (2^(n+1))](graph.png)
 
 |Halving Cycle|Block Height|Reward (Wood V2/block)|Tokens Released in Cycle|Cumulative Supply|Minimum Days Pass|
 |-------------|------------|----------------------|------------------------|-----------------|-----------------|
