@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'OpenBBQ Docs',
+    title: 'CMswap Docs',
     tagline: '',
     url: 'https://your-docusaurus-test-site.com',
     baseUrl: '/',
@@ -40,14 +40,14 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                    'https://github.com/coshi190/docs-openbbq',
+                    'https://github.com/coshi190/docs-cmswap',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                    'https://github.com/coshi190/docs-openbbq',
+                    'https://github.com/coshi190/docs-cmswap',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -69,7 +69,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         navbar: {
-            title: 'OpenBBQ Docs',
+            title: 'CMswap Docs',
             logo: {
                 alt: 'My Site Logo',
                 src: 'img/favicon.ico',
@@ -91,7 +91,7 @@ const config = {
                     position: 'right',
                 },
                 {
-                    href: 'https://github.com/coshi190/docs-openbbq',
+                    href: 'https://github.com/coshi190/docs-cmswap',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -105,11 +105,15 @@ const config = {
                     items: [
                         {
                             label: 'App',
-                            href: 'https://openbbq.xyz',
+                            href: 'https://cmswap.xyz',
                         },
                         {
                             label: 'Discord',
                             href: 'http://discord.gg/k92ReT5EYy',
+                        },
+                        {
+                            label: 'X',
+                            href: 'https://x.com/CMswap',
                         },
                     ],
                 },
@@ -118,7 +122,7 @@ const config = {
                     items: [
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/coshi190/docs-openbbq',
+                            href: 'https://github.com/coshi190/docs-cmswap',
                         },
                     ],
                 },
